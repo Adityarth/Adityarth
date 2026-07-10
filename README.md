@@ -1,23 +1,23 @@
                                                                         
                                 ‘J™©ÿDÝD9”                              # Hi 👋 I'm Aditya Kumar
-                          òÆÆâNpÞŸ©£YfUUõäRØÆ§+                          AI/ML Engineer, Computer Vision Engineer
+                          òÆÆâNpÞŸ©£YfUUõäRØÆ§+                         AI/ML Engineer, Computer Vision Engineer
                        àÉÜ3v†nùÎ5ôüÍ%¡^ƒu¬^l(|cyåq’                     
-                    úßÝ£)|ò+‘’ `˜—!f©ò?­±ç» ‰w<1%shb                    OS: Windows 11
-                   %ù[tL¼J3’‚V<‚         ’’”ïÍ?˜}•1çÇã÷                Role: AI/ML Engineer, Computer Vision Engineer
-                 Sâ‡t@Ì3i;—uVƒÌ5xFáDZZhZ4C×    `›’‹’¦cY±               Languages: Python, C++
-                ¥OÌ¼¢s½lì0‡%%yÎy6ž5ƒòC3wPFÿéé¥ú{`´›*!``™Í              Frameworks: Pytorch, TensorRT, OpenCV, CUDA
-                Þz7ztJsÏùç†ôé€œmëèÚåñÝšxJCYZ€pêÔýü~^¤¿;†U              Learning: LLMs, Langchain, RAG
-               mx‰u‰z£OhS5ö;                   cÜRÒ0t{~¹(9             Interest: Computer Vision
-               O£3@‰a4¤!                           !çl!~^Ý`            College: B.Tech CSE
+                    úßÝ£)|ò+‘’ `˜—!f©ò?­±ç» ‰w<1%shb                    OS:.............................................Windows 11
+                   %ù[tL¼J3’‚V<‚         ’’”ïÍ?˜}•1çÇã÷                Role:..............AI/ML Engineer, Computer Vision Engineer
+                 Sâ‡t@Ì3i;—uVƒÌ5xFáDZZhZ4C×    `›’‹’¦cY±               Languages:......................................Python, C++
+                ¥OÌ¼¢s½lì0‡%%yÎy6ž5ƒòC3wPFÿéé¥ú{`´›*!``™Í              Frameworks:.................Pytorch, TensorRT, OpenCV, CUDA
+                Þz7ztJsÏùç†ôé€œmëèÚåñÝšxJCYZ€pêÔýü~^¤¿;†U              Learning:..............................LLMs, Langchain, RAG
+               mx‰u‰z£OhS5ö;                   cÜRÒ0t{~¹(9             Interest:...................................Computer Vision
+               O£3@‰a4¤!                           !çl!~^Ý`            College:.........................................B.Tech CSE
                Ëùns×îï                              ÷fí†nñ¸             
-               øú3çj*×’                              ¦„1CA”             
-               =ZóÍ‡saº                              ^¡V™Û              
-               ´øóÏ2¾¿                               xyòáí             
-                À0ÌO±   ¡FQÆÆÄe¦              ;}¢1    G©ø               
-                Py0ž  ’ù•     t¥ßë§`    °•t¶ÁD}   ˆÅ  ÓP¾               I love building
-                *äPÝ    …³´       ¨`                  8Æ`               - Computer Vision Projects
-                ± Jü    (9v åÆ’ ‘  ´      ª¡)ÆÆº¿Æï   [                 - LLM Applications
-                ~  ×                                                    - RAG Systems
+               øú3çj*×’                              ¦„1CA”             I love building
+               =ZóÍ‡saº                              ^¡V™Û              - Computer Vision Projects
+               ´øóÏ2¾¿                               xyòáí              - LLM Applications
+                À0ÌO±   ¡FQÆÆÄe¦              ;}¢1    G©ø               - RAG Systems
+                Py0ž  ’ù•     t¥ßë§`    °•t¶ÁD}   ˆÅ  ÓP¾               
+                *äPÝ    …³´       ¨`                  8Æ`               ## Connect with me
+                ± Jü    (9v åÆ’ ‘  ´      ª¡)ÆÆº¿Æï   [                 
+                ~  ×                                                    
                   s^                                                    
                 ‚ i—                                                    
                 ^`÷¾¨                                                   
@@ -25,7 +25,7 @@
                    ¤5¸`´          )ª¸ˆ   `           =                  
                     8‰`      +JüÇdô@L!0ÿsµÝÏˆ        ç                  
                     Åú{•`  %Ûßðõtv^  ˜   ¨»SÃþÔ¤   ¨®                   
-                     Wwì<; ?%                •U`  ´hT                   ## Connect with me
+                     Wwì<; ?%                •U`  ´hT                   
                       Ò0zr»{*                 {  Iûb                    
                     Æ çUwYI%=i~ ›üZžk4®9±o¸  1%=ƒHá                     
                    Êï ¯ªeÎóÏƒ+}`   ´:¡º´    †7íûß                       
