@@ -1,45 +1,71 @@
-                                                                       
-                               ‘J™©ÿDÝD9”                            # Hi 👋 I'm Aditya Kumar
-                         òÆÆâNpÞŸ©£YfUUõäRØÆ§+                       AI/ML Engineer, Computer Vision Engineer
-                      àÉÜ3v†nùÎ5ôüÍ%¡^ƒu¬^l(|cyåq’                  
-                   úßÝ£)|ò+‘’ `˜—!f©ò?­±ç» ‰w<1%shb                  OS:.............................................Windows 11
-                  %ù[tL¼J3’‚V<‚         ’’”ïÍ?˜}•1çÇã÷              Role:..............AI/ML Engineer, Computer Vision Engineer
-                Sâ‡t@Ì3i;—uVƒÌ5xFáDZZhZ4C×    `›’‹’¦cY±             Languages:......................................Python, C++
-               ¥OÌ¼¢s½lì0‡%%yÎy6ž5ƒòC3wPFÿéé¥ú{`´›*!``™Í            Frameworks:.................Pytorch, TensorRT, OpenCV, CUDA
-               Þz7ztJsÏùç†ôé€œmëèÚåñÝšxJCYZ€pêÔýü~^¤¿;†U            Learning:..............................LLMs, Langchain, RAG
-              mx‰u‰z£OhS5ö;                   cÜRÒ0t{~¹(9           Interest:...................................Computer Vision
-              O£3@‰a4¤!                           !çl!~^Ý`          College:.........................................B.Tech CSE
-              Ëùns×îï                              ÷fí†nñ¸             
-              øú3çj*×’                              ¦„1CA”           I love building
-              =ZóÍ‡saº                              ^¡V™Û            - Computer Vision Projects
-              ´øóÏ2¾¿                               xyòáí            - LLM Applications
-               À0ÌO±   ¡FQÆÆÄe¦              ;}¢1    G©ø             - RAG Systems
-               Py0ž  ’ù•     t¥ßë§`    °•t¶ÁD}   ˆÅ  ÓP¾               
-               *äPÝ    …³´       ¨`                  8Æ`             ## Connect with me
-               ± Jü    (9v åÆ’ ‘  ´      ª¡)ÆÆº¿Æï   [                 
-               ~  ×                                                    
-                 s^                                                    
-               ‚ i—                                                    
-               ^`÷¾¨                                                   
-                `‹Ÿ>           ’ `šái¨°ü¯                              
-                  ¤5¸`´          )ª¸ˆ   `           =                  
-                   8‰`      +JüÇdô@L!0ÿsµÝÏˆ        ç                  
-                   Åú{•`  %Ûßðõtv^  ˜   ¨»SÃþÔ¤   ¨®                   
-                    Wwì<; ?%                •U`  ´hT                   
-                     Ò0zr»{*                 {  Iûb                    
-                   Æ çUwYI%=i~ ›üZžk4®9±o¸  1%=ƒHá                     
-                  Êï ¯ªeÎóÏƒ+}`   ´:¡º´    †7íûß                       
-                9èŸx `›`<Ýµ3óz—}»‘…–[/´¸‚!”1‰xe                        
-              UëOu‡À  `„``leÎ5©%¼u¢jƒt+><vaýÜ‘   ±                     
-          |ÈKÓ&z1=îT7   Í¹ `°ú9á54µV6kžàÚâb°   ½  pÚÞ*                 
-      ¨ûøZù¼{*[*†=ìƒ®    Îh•´´`÷¤YÝ®9O0î‚      Ç  @×l¢ÍY¾ž(            
-     Çùc×)¿|•«+×†i7>óa     œé=°ˆ´              Ä  †¯º»(×–:—i@w3„       
-     ÷¯³–^†²~÷((»«¬!«Vc      SI´               V   V ¹*«~­~´`¸ˆ„¿      
-     ”~~”(°·‚—ªª¯ª^)/¿ç~                      I    ê   ˜/¦–„‹…¸˜       
-                                                                        
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityarth&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarth&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Adityarth&theme=github_dark)
+                                                                                                                                                                                                        
+                                                                                            f!jrTrjJqbb                                                                                                
+                                                                                      qwXffTllil;IiijxqqpLuuujzQ
+                                                                                  bYvu!!t;il;!;;:;:ITfTlii;iIIlitXq
+                                                                               dXF!tTf;!tlil!;liiiIl!tI;,,,,,:;IIiIFv
+                                                                              bfTT!lltiII!!l!t!t!I:,...::,,....,:li!Xjv
+                                                                             bftltTI,tti::;lfFl:....  ... ,. ...,:i:tFxcq
+                                                                             Y!Ilt!i:i;;;i!tiI:..,:..:..  ,i:.,,:.,,:;IzL
+                                                                            wT!lfTliiI!lIII:,....,...., :.;i: :I:;..,::fnq
+                                                                          CvtIl!fftI!iiii:,....,,,,,,,...,i,..,::i...,::Irwp
+                                                                         pmtliilt!li;I;i;,,,:IIlllIIIIi;::,..,::;:...,,,:;UQ
+                                                                         kqxlIi;iIlilIII;itjucXYXXXzcccvurFlii;:,,.  ...,::!Q
+                                                                        pxtt;iiilI;;,:IfcJQmwwwmmmLLCJCJUXvnjf!I:.    ..,,:Im
+                                                                       hbjTt!II!i;:,,tcLqpdbbdpdqqwQQLLCJUXcvunFti,......,:tQQ
+                                                                        dTlI!t!li::!uCwpdbbbbbddpqwmQLLCJUYzcvuxjTi,....,,:cLL
+                                                                        b!IIIIlIitvLqppddbbbbbddppqwmQQQLCUXcvuxjfl,,,,..,:x
+                                                                        bzll;;ilTumqpdddbbbbbddppppqqqwwmLJYcvnxrFT:....,,,
+                                                                         b!:;,iilUwqpqqqqwpdbbddppqpdqmLUcnrjjfjjjjl.....,.
+                                                                          Fil;i;!wwmuxxjjFf!ljUwqwwqLUcfTi,....:;Ijj.....,i
+                                                                          Jit!;;cwvxvcXUzxtl!tTuCLJXnxFlIIl!!Tt!!liFi,..,,!
+                                                                           n!!iImpCLLCzQqCzxuvzXJQLzxfttTTcXuxrTFfTff,.,;i
+                                                                          bdXulTqpqmYvvni,;jfnYLwddUrTTfTc!I;ItllTFjr,,ITF
+                                                                           qcmvfdppwLCYzXurruYwqqddQujnxzzcuFFFT!TFrx;!jIT
+									   qwbdjdppppqwLUzzCCwpppddmXxncYJYvxjrxxnnxxFtjTf
+									   bpdCcppdbbbdddddbdbpdpddwJvxcULQQLQQQLUzuxnItjj
+									   bpwQcqdbbkkkbddddbbddbbbqLzxxcULQmwwmQJzunn!ljF
+									   dwdQxqdbkkhkbpqwqppdbkkhqJcnunvUQmmwmQJznrxlFt
+									   bpqprqpdbbbdpwQLwppdwLwmJurFnujcUCLLCJXcnrj!f
+									    ddpnwqpqqwmLCJwddpXjuXzr!l!!tfxvzXXzcunxjt!f
+									     pdJzwmQCJJYXmqmQXxjtI!Fl!;;;IlFFjnxxrjjjIf
+									      bdfJQQLCQurFffFujrrrxcuxFI;i;;;ilxxrFFtin
+									       dxnXJCQmxllitxvvcccvxjFf!TtI;,,:TrFtTI!
+										qFuYuYQYt!vvrLpqhhhwbmQunT;lliijf!iI:
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkbkkkkkkkkkkbbbbbbbuFnrrYCFFJqqmqqqmQmwLJzxFFfjTTf!ii,InnxxxrrrrrrrxxnnuuvvvcczzzXXYYUUUUUJJCCCCCCLLLLLLQQQQQQmmmmmmwwwwwwwwwwwwqqqqqqqqqq
+hhhhhhhhhhhhhhhhhhhhhhkhhhhhhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkbkkkkkkkkkkkbbbbbbbbTttFjntfUmwwwQQCUXXvxxxFfTTl;ii:,:nnnxxxrrrrrrrxxnnnuuvvcczzzXXYYYUUUJJJJJCCCCLLLLLLQQQQQmmmmmmmwwwwwwwwwwwwwwqqqqqqqq
+hhhhhhhhhhhhhhhhhhhhhkkhhhhhhkkkkkkkkkkkkkkkkkkkkbkkkkkkkbkkbkkkkkkbkbbbbbbbbbbbbbp!lfx!fTFzCznfTflIlil;;i!lii;::,,uuunnxxxrxrrxxxnnnuuvvvcczzXXXYYYUUUUJJJJCCCCCLLLLLQQQQQmQmmmmmmwwwwwwwwwwqqwqqqqqqqq
+hhhhhhhhhhhhhhhhhhhhkhkhkhkhhkkkkkkkkkkkkkkkbbkbbkkkkkkbbbkbbbbkkbbbbbbbbbbbbbbbbbbdvltF!!!TxXcnTI;;ItII;l!;::,,,incvunnnxxxrrxrxxnnnuuvvvcczzXXXYYYUUUJJJJJCCCCCLLLLLQQQQQmmmmmmmmmwwwwwwwwwwqqqqqqqwqq
+hhhhhhhhhhhhhhkkhhhhhhhhhkkkkkkkkkkkkkkkkkbbbbbkkkbbkbbbbbkbbbbbbbbbbbbbbbbbbbbbbbbbbYTIli!tjvnnuuTttt!IilI;:,,.iTXcvvunnxxxrxxxxxnnuuvvvccczzXXXYYYUUUUJJJJCCCCLLLLLLLQQQQQmmmmmmmmwwwwwwwwwwwqwqqqqwqq
+hhhhhhhhhhhhhhhhhkkkkkkkkkkkkkkkkkkkkkkkbkbbkbbbbkbbkkkkbbbbbbbbbbbbbbbbbbbbbbbbbbbdamCrlIitFfFTfx!!lllI;;;:..:ltTYvcuunnnxxxxxxxnnnuuvvvccczzXXXYYYUUUJJJJJCCCCCCLLLLQQQQQQQmmmmmmmmwwwwwwwwwwwwwwwwwqq
+hhhhhhhhhhkhhkkkkkkkkkkkkkkkkkkkkkkkkkkbbkkkbbkkkkkkbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdmTokmQJutI;itIIlii:;I;:::,:I!tTrLU:xnnnnxxxxxxxnnuuuvvvcczzzXXXYYYUUUJJJJJCCCCCCLLLLLQQQQQmmmmmmmmwwwwwwwwwwwwwwwwwqqw
+hhhhhhhhkhhhkhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkbbbbbbbkbbbbbbbbbbbbbbbbbbbbbbbbbbbzTXoMowwmCXtI..,,,;.:,,..;!!Tt!JLLJ ,;nnxxxxxxxnnnuuuvvvcczzzXXXYYYUUUUJJJJJCCCCLLLLLQQQQQQmmmmmmmmwwwwwwwwwwwwwwwwwwqw
+hhhhhhhhhhkhhkkkkkkkkkkkkkkkkkkkkkbkkkkkkkkkkkbbbkbbbbbbbbbbbbbbbbbbbbbbbbbbbbdLjTTwMoMMadLLJYvj!!i;:;iIl!!!inXCLQLU.,,,;rrrrxxxnnuuuvvvccczzzzXXYYYUUUUJJJJJCCCLLLLLLQQQQQQmmmmmmmwmmwwwwwwwwwwwwwwwwww
+hhhhhkhhhkkkhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdzrTTTTzooMMooodwCJUXcnjTTTTtIFxYUCLQQQF.,,,,,IfxxxxnnnuuuvvvccczzzXXXYYYUUUJJJJCCCCCCLLLLLQQQQQQmmmmmmmwwwwwwwwwwwwwwwwwwww
+hhhhhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkbkbkbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbCUfTTTTTT!ooMMMooooopqUXvxjjjrvLCCCCLQQLY...,,,,,,,,ltTxxnnuuvvcccczzXXXYYYUUUJJJJJCCCCCCLLLLQQQQQQmmmmmmmmmmmwwwwwwwwwwwwwwww
+hhhhhhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbbbbbbbbbqLCfTTfTfTTtTttJooooMMMooooaqUvcXpdpwwmmmQQLC!...,.,,,,,,..,,,FjuuuvvccczzXXXYYYUUUUJJJJCCCCCLLLLLLQQQQQQmmmmmmmmmwwwwwwwwwwwwwwwww
+hhhhhhkkkkkkkkkkkkkkkkkkkkkkkkkkkkbkkkbbbbbkbbbbbbbbbbbbbbbbbbbbbdpcTt!t!tTTTTTfttt!taoooMMooookCFfTtlIJwpqqwmmQQz,,,,,.,,,,,,...,,,:;xuuvvcczzzXXYYYYUUUUJJJJJCCCCLLLLLQQQQQQmmmmmmmmmmwmwwwwwwwwwwwwww
+hhhkkkkkkkkkkkkkkkkkkkkkkkkkkkbkkkbbkbbbbbbbbbbbbbbbbbbbbbbbbbbwFTt!!!!!!tTTTTtttttttcooooMMoprjFFTTIi;::iqqwmmQCi,,,,,,,,,,,,,..,:::::iiiFvcczzXXXYYYYUUUUJJJJCCCCCLLLLLLQQQQQQmmmmmmmmmwwwwwwwwwwwwwww
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkbbkkbbbbbbbbbbbbbbbbbbbbbbbbbbbvntttt!!!l!!tTtTTT!!!!!ttthooooavFI!tFF!i;::lFrcwmwQn:,,,,,,,,,,.,..,:::::::;;;;;i!tjzXXXYYYUUUUJJJJCCCCCLLLLLQQQQQQmmmmmmmmmmmwwwwwwwwwwwww
+kkkkkkkkkkkkkkkkkkkkkkkkkbkkkkbbbbbbbbbbbbbbbbbbbbbbbbbbLXFTt!!tt!!!!!!!IIi;ttt!!!!t!txooMbvvYCcltjT;:,TncYUQpQX;:::::::::,,,,:::;;;:;;;;;;;;;;;;;;!FxYYYYUUUJJJJJCCCCCLLLLQQQQQQQQmmmmmmmmmmwwwwwwwwwww
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbLCUxFFTTt!t!!!!!!t!!!!!!l!!tt!!!t!!!t!LopLdkkkbaFTfi:!vXJLwdqLl;::::::::::::::;;;;;;;;;;;;;;;;;;;;;ii;FnnvUUUUJJJJCCCCCLLLLLQQQQQmQmmmmmmmmmmwwwwwwwwww
+kkkkkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbwmmrTTTttttt!t!!!!!!t!!!!!!!!!!!!!!t!!!!!t!!upoohdbaawjfI:;YJLwddmvi;:::;;::::;::;;::;;;;;;;;i;i;;iiiiii;;Ii;;;rUUUUUJJJJCCCCLLLLQQQQQQQmmmmmmmmmmmwwmwwwwww
+kkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbbbbuTt!ltttttt!ttt!!!!!!!!!!!!ll!!!!!!!!!!!!!!!lCbookdhoojjFI::YQqdkdzI;;:;;;;;;;;;;;;::.ii;i;iiiiiiiiiiiii;;Ii;::::vYUUUUJJJJCCCCLLLLQQQQQQQQmmQmmmmmmmmmmwmwww
+kkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbbbbbbbzFTTt!I!t!!!!!!!!ll!l!!!l!l!l!!t!!!!!!!!!!!!!lcdaabkahnrjfl;:iLpkkmuI;;;;;;;;;;;;;;;;.;iiiiiiiiiiiiiiiiii;Ii;:::,:;YYYYUUUJJJCCCCLLLLLLLQQQQQQmQQmmmmmmmmmmmmw
+kkkkkkkkkkkkkkbkkbbbbbbbbbbbbbbbbbbbbbbbbpFfTTtt!I!!!!!!!!!ll!ll!lll!!ll!!!!!!!!!!!!!!!!lqkohakhjrjf!;::jdkkzti;;;;;;i;iiii;;;.;iiiiiiiiiiiiiiiiii;ii;;:::,::XXYYYUUUJJJCCCCCLLLLLLQQQQQQQQmmmmmmmmmmmmm
+kkkkkkkkkkkbbbbbkbbbbbbbbbbbbbbbbbbbbbbbbrffTTttt!it!!!!!!!!!!!!!!!!!!!l!!!!!!!!!!!!!!!!IQboahqhjjjftI;::LkkjIi;;;;iiiiiiiiii,;iiIIiiiiiIiIiiiIii;ii;;;;:;;;:uXXYYYYUUJJJCCCCCLLLLLQQQQQQQQQQQmmmmmmmmmm
+kkkkkkkkkbkkkkkkkbkkkbbbbbbbbbbbbbbbbbbbmfTTfTTtttlI!t!!!!!!!!!l!!!!!!!ll!!!!!!!!!!l!!!!lxdaakmmrjFftl;::rdp!Ii;iiiiiiiiiii;:;IIIIIIIiIiIIIIIIii:ii;;;:::,,,,;zzXXXYYUUUJJJJCCCLLLLLLQQQQQQQQQmmmmmmmmmm
+kkkkkkkbkkkkkkkkkkkkkbkkbbbbbbbbbbbbbbbdjTttttTTtt!i!t!!!!!lll!!!!!!!!lll!!!!!!!!!l!!!!!liqkobLcFFFFtlI;;iwXIIiiiiiiiiiiiii;:IIIIIIIiiiIIIIIIIi:;i;;::::::;:::uczzXXXYYUUUJJJCCCLLLLLLQQQQQQQQQQmmmmmmmm
+kkkkkkkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbdffTTtTtTtttl;tt!!lll!!!!!l!!!!llll!!!!!!!!lll!!!lIJbodmnFjFff!Ii;;QTIiiiiiiiiIiiii;,IIIIIIIIiiIIIIIIIi,;i;::,:,;;i;:::IvcczzXXXYYUUUJJCCCCLLLLLLQQQQQQQQQmmmmmmm
+kkkkkkkkkkkkkkkkkkkkbbkbbbbbbbbbbbbbbbbnTTttttttTTt!II!t!!lllll!l!!!!!l!l!l!ll!!llllll!!!llpodwFfFFFTtlIi;UlIiiiiiIiIIIiii.iIIIIlIIIiiIIlllI;.,i::,::iiii;:,,,:uvvvcczXXXYYUUJJJCCCCLLLLLQQQQQQQQQmQmmmm
+kkkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbUfTTTttttttt!!liltt!!llIl!lll!!!l!!!!!!llllllllll!!liLakmffFFFfT!li:xIiiiiIIIIIIIii.iIIlIllIIiiiIllII;, ;:,:;iiii;::,,,::ruuvvccczXXYYYUUJJJCCCLLLLLQQQQQQQQQQmmmm
+kkkkkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbjfTTTt!t!!!!!llI;l!!!!IIllllll!!!!l!!l!l!llllllllll!IjdhQffFjjTttl;,lIiiiIIIIIiIIi,iIllllllIIiiiIIiIi, :::;iIiii;::;;:::,fnnuuvvcczzXXYYUUUJJJCCCLLLLQQQQQQQQQmmmm
+kkkkkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbUffTTTTtt!!t!!lIII:I!!lIIIIlllll!!!l!lll!llllIlIIlll!l;LaCFFfFFFT!I:,IiiiiIIIIIIIi:illIlllIIIii;::i:i;. ,;iIIIIii;;::,,,:::xnnuuuvcczzzXYYYUUJJJCCCLLLLQQQQQQQQQQmm
+kkkkkkkkkkkkkkkbbbbkbbbbbbbbbbbbbbbbdf!!tttTTttt!!!!lIii:I!!lIIllll!l!!!l!!ll!llIIIIIIIllllicaUffFFFfT!;,lIiiiIIIIIlIii;llllIi;iii;;::;i:I: .;iIii:,. ,;ii;:...,xxnnnuuvvcczzXXYYYUUJJCCCLLLLQQQQQQQQQmm
+kkkkkkkkkkkkkkbbbbbbbbbbbbbbbbbbbbbbbffTTTttttt!!!!!!!lI;,lllIIlIllll!!ll!ll!lIliIIIIIIllllIihzfFFFjFTl:.liiiiIIIIIlIi;IIIIii;ii;i;;:;;::;, :i,. .::;i;:,. ..,,;xxxnnnuuvvcczzzXXYYUUJJCCCCLLLQQQQQQQQmm
+kkkkkkkkkkkkkkbbkkbbbbbbbbbbbbbbbbbbcftttTt!!lIi;iiIIIIIi:,llIIlIllll!l!llllllIIIIIIIIIll!lI:wnfffFFftl:iIiiiIIIIIlIi.IIIIIiii;;;i;::::,,,  . .;;Iii;:,..,,,.,,,!rxxnnnuuvvcczzXXXYYUUJJJCCCLLLQQQQQQQQm
+kkkkkkkkkkbkkkbbbbbbbbbbbbbbbbbbbbbf!ttttttt!t!!lli:,,,,,,.lllIIllll!!!llllllllIIiIIIIIIlllI;xnTffFFTtI:lIiiIIIIIIli,iIiiii;;iIi;;::::,,,.   ;iIii;;:::,,,,.,,,,frrxxxnnuuvvcczzXXYYYUUJJJCCCLLLQQQQQQQm
+kkkkkkkkkkkbkbbbbbbbbbbbbbbbbbbbbdbwF!lt!!!tttt!!!!lI;:,...:IIIIIlllll!lllllllIIIIiiiiIIIIlIi:ztfffTt!I;IIiiiIIIIlI;,;IIIIiiiii;;;:::,,,.. ,IIi;;ii;;:::,,.....:TjrxxxnnnuuvvcczzXXYYYUUJJJCCCLLLLQQQQQm
+kkkkkkkkkbbbbbbbbbbbbbbbbbbbbbbbbdddfT!!tt!!llIIIIllllIi;:..llIIIlIlllllllllllIIiIiiiiiIIIIlI;clTfttt!!lIiiiIIlIII;,iiiiiiiii;;:::::::,,. .IIiIIIi;,,;i;:,,,,,:,,rrxxxnnnuuuvvcczzXXYYYUUJJJCCCLLLQQQQQQ
+kkkkkbkbbbbbbbbbbbbbbbbbbbbbbbbddddYfTttTtt!!!!li;;;;i;;iii;IIIIIIIlIllllllllIIIIiiiiiiIiIIIIi;;!tTt!tTlIiiIIIIIIi.iiiiiiii;:,,,,,,,,,,.. ;lIIlI;, .;I;..,::;i:,,rrrxxxnnuuuvvvcczzXXYYYUUJJJCCCLLLQQQQQ
+kbbbbbbbbbbbbbbbbbbbbbbbbbbbdddddddffTTttTtt!!lll!!lIIIi:,  .lIIIIiIIIlllIIlIlIiiiIIi;iiiIIIIi,.i!ttTTtlIiiiIIIIi,;iiiiii;;,,......,,,..  IIiiIUJJlii,,;;ii;:,,.,rrrxxxxnnuuuvvcczzzXXYYUUUJJJCCCLLLQQQQ
+bbkbbbbbbbbbbbbbbbbbbbbbbdddddddddCttTttttTtt!llIll!llIIi;;,.IlIiiiiiiIIIIIIIIIIIIIii;;iiiIIIi:.;lttTTlIiiiiiIIi;,;i;iii;::,........,,,. ;ItvQLmQLTIiI;:;i:..,,,:frrxxxxnnuuuuvvcczzzXXYYUUUJJJCCCLLLLLQ
