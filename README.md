@@ -1,6 +1,6 @@
 Name : Aditya Kumar                                            f!jrTrjJqbb					
 AI/ML Engineer, Computer Vision Engineer               qwXffTllil;IiijxqqpLuuujzQ
-OS : Windows 11                                      bYvu!!t;il;!;;:;:ITfTlii;iIIlitXq
+OS : Windows11                                       bYvu!!t;il;!;;:;:ITfTlii;iIIlitXq
                                                    dXF!tTf;!tlil!;liiiIl!tI;,,,,,:;IIiIFv
                                                  bfTT!lltiII!!l!t!t!I:,...::,,....,:li!Xjv
                                                bftltTI,tti::;lfFl:....  ... ,. ...,:i:tFxcq
